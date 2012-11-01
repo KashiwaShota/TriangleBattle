@@ -47,5 +47,7 @@
 	game.rate += Math.floor(Math.random() * 6) - Math.floor(Math.random() * 6);
 	game.tick += game.fps * (Math.floor(Math.random() * 6) - Math.floor(Math.random() * 6));
 	特記事項：低確率、全てがランダムで決定
-
+くらーけん
+	.frame = 36;
+	game.score += game.hoge;
 
